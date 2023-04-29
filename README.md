@@ -1,0 +1,2 @@
+# selenium_test
+seleniumを使ってwebスクレイピング学ぶためのリポジトリ
